@@ -1,0 +1,7 @@
+aws.secrets
+result*
+*.swp
+*.ova
+etc-*/
+maxos_vm_virtualbox
+.venv*/
