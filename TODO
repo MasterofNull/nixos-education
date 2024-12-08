@@ -1,0 +1,26 @@
+Docker
+- Spiderfoot persist
+- Other images persist?
+
+NixOS
+- Minimalist install?
+  - No UI
+- Generic VM profile
+  - Fresh NixOS install to determine disk usage
+- ISO build?
+  - Schedule on blueboy?
+  - dd USB every X days?
+
+Jupyter
+- Clickjack test for PT Web
+- Test IP range notebook
+  - Verify PDF export
+- Test web application notebok
+  - Verify PDF export
+- Tool digest for reporting?
+  - VulnKB
+
+Security
+- Check open ports on different profiles
+
+Check Firefox bookmarks
